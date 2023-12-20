@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteAppComposeProjeckt</string>
+    <string name="recent_notes">Recent Notes</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
